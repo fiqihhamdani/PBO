@@ -1,0 +1,5 @@
+<?php
+$nama = "Fiqih";
+echo "Hello World! Nama Saya $nama.";
+
+?>
